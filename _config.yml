@@ -8,7 +8,7 @@ url:         "http://c3mb0.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_analytics:
+google_analytics: "UA-67541750-1"
 google_verification:
 
 # Optional features
