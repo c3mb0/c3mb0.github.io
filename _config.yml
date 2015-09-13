@@ -1,8 +1,8 @@
 # Site settings
-title:       stream of findings, snippets and creations
-email:       your_email@example.com
+title:       streams of findings, snippets and creations
+email:       cem.sancak.90@gmail.com
 author:      cem
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "the playground of an amateur and stubborn developer"
 baseurl:     ""
 url:         "http://c3mb0.github.io"
 date_format: "%b %-d, %Y"
@@ -12,7 +12,7 @@ google_analytics:
 google_verification:
 
 # Optional features
-animated:             true
+animated:             false
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
