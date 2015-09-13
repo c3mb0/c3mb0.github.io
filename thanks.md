@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Thanks For Your Message
+title: Cheers!
 permalink: /thanks/
 ---
-Thanks!
