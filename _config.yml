@@ -1,8 +1,8 @@
 # Site settings
-title:       streams of findings, snippets and creations
+title:       Streams of findings, snippets and creations
 email:       cem.sancak.90@gmail.com
-author:      cem
-description: "the playground of an amateur and stubborn developer"
+author:      Cem
+description: "The playground of an amateur and stubborn developer"
 baseurl:     ""
 url:         "http://c3mb0.github.io"
 date_format: "%b %-d, %Y"
