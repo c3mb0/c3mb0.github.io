@@ -5,7 +5,7 @@ date:       2016-01-04
 summary:    Join me while I build a completely useless and highly educational piece of service.
 categories: golang couchbase
 ---
-It's no secret I love Team Fortress 2 (4k hours and proud, baby). However, I've recently decided to spend my precious free time in a more productive manner, so I just hack the Source Engine instead. Between C++, DLL injections, virtual function tables and signature scanning, my love for lower level programming has rekindled, so I've decided to pick up a project in Go.
+It's no secret that I love Team Fortress 2 (4k hours and proud, baby). However, I've recently decided to spend my precious free time in a more productive manner, so I've been hacking the Source Engine instead. Between C++, DLL injections, virtual function tables and signature scanning, my love for lower level programming has rekindled, so I've decided to pick up a project in Go.
 
 ## Why Go?
 
