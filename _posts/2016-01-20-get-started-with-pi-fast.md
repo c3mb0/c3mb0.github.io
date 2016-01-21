@@ -215,7 +215,7 @@ UUID=4EB410A4C310B061 /media/MONSTER ntfs auto,users,rw,uid=1000,gid=100,umask=0
 
 _uid_ is the owner's ID, in this case, 1000 represents _pi_. You can see for yourself by executing _id pi_. _gid_ is the group ID, and 100 represents the _users_ group, basically opening up the drive's access to the entire OS. Finally, _umask=002_ means _rwxrwxr-x_.  Unless you have special reasons, keep them as they are, simply change your UUID, mount path and type.
 
-__Note:__ If you are planning to access this drive over the network as a guest (see Samba configuration below) and make changes to it instead of just reading stuff off it, change the _umask_ to 000, which will set the permissions to _rwxrwxrwx_ ("sysadmins hate him!").
+__Note:__ If you are planning to access this drive over the network as a guest (see Samba configuration below) and make changes to it instead of just reading stuff off it, change the _umask_ to _000_, which will set the permissions to _rwxrwxrwx_ ("sysadmins hate him!").
 
 ## Installing and Configuring Samba
 
